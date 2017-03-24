@@ -15,26 +15,26 @@ Kong codebase.
 ## <a name='TOC'>Table of Contents</a>
 
   1. [Version control](#version-control)
-      1. [Branches](#branches)
-      1. [Commit message format](#commits)
-      1. [Pull requests](#pullrequests)
+      - [Branches](#branches)
+      - [Commit message format](#commits)
+      - [Pull requests](#pullrequests)
   1. [Testing](#testing)
   1. [Performance](#performance)
   1. [Lua Style Guide](#style-guide)
-      1. [Tables](#tables)
-      1. [Strings](#strings)
-      1. [Functions](#functions)
-      1. [Properties](#properties)
-      1. [Variables](#variables)
-      1. [constants](#constants)
-      1. [Conditional Expressions & Equality](#conditionals)
-      1. [Blocks](#blocks)
-      1. [Whitespace](#whitespace)
-      1. [Commas](#commas)
-      1. [Semicolons](#semicolons)
-      1. [Type Casting & Coercion](#type-coercion)
-      1. [Naming Conventions](#naming-conventions)
-      1. [Modules](#modules)
+      - [Tables](#tables)
+      - [Strings](#strings)
+      - [Functions](#functions)
+      - [Properties](#properties)
+      - [Variables](#variables)
+      - [constants](#constants)
+      - [Conditional Expressions & Equality](#conditionals)
+      - [Blocks](#blocks)
+      - [Whitespace](#whitespace)
+      - [Commas](#commas)
+      - [Semicolons](#semicolons)
+      - [Type Casting & Coercion](#type-coercion)
+      - [Naming Conventions](#naming-conventions)
+      - [Modules](#modules)
 
 ## <a name='version-control'>Version control</a>
 
@@ -49,7 +49,7 @@ Kong codebase.
   in a release, base your fix of the `master` branch. New features and fixes on
   `next` should be based of the `next` branch.
 
-    **[[back to top]](#TOC)**
+  **[[back to top]](#TOC)**
 
 ### <a name='commits'>Commit message format</a>
 
@@ -141,7 +141,7 @@ Kong codebase.
 
   A detailed explanation can be found in this [document](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#).
 
-    **[[back to top]](#TOC)**
+  **[[back to top]](#TOC)**
 
 ### <a name='pullrequests'>Pull requests</a>
 
